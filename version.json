@@ -1,0 +1,5 @@
+{
+  "latest": "0.0.16",
+  "url": "https://github.com/angel129116/odin-server-releases/releases/download/v0.0.16/OdinServerSetup-0.0.16.exe",
+  "notes": "Adds device tracking to play history and per-track artist credits. Schema updates apply automatically on upgrade."
+}
