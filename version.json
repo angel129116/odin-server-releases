@@ -1,6 +1,5 @@
 {
-  "latest": "0.0.16",
-  "url": "https://github.com/angel129116/odin-server-releases/releases/download/v0.0.16/OdinServerSetup-0.0.16.exe",
-  "zipUrl": "https://github.com/angel129116/odin-server-releases/releases/download/v0.0.16/OdinServerUpdate-0.0.16.zip",
-  "notes": "Adds device tracking to play history and per-track artist credits. Schema updates apply automatically on upgrade."
+  "latest": "0.0.17",
+  "url": "https://github.com/angel129116/odin-server-releases/releases/download/v0.0.17/OdinServerSetup-0.0.17.exe",
+  "notes": "Removes the background auto-updater in favor of a manual update banner. Fresh installs now build the database schema the same way upgrades do, fixing a bug where a brand-new install could end up with an outdated schema. Installer is also significantly smaller."
 }
