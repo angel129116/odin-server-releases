@@ -1,10 +1,10 @@
 {
-  "latest": "0.0.18",
+  "latest": "0.0.20",
   "windows": {
-    "url": "https://github.com/angel129116/odin-server-releases/releases/download/v0.0.18/OdinServerSetup-0.0.18.exe"
+    "url": "https://github.com/angel129116/odin-server-releases/releases/download/v0.0.20/OdinServerSetup-0.0.20.exe"
   },
   "docker": {
     "instructions": "Run `docker compose pull && docker compose up -d` from your Odin-Server folder to update."
   },
-  "notes": "Top songs sections added to Odin-Server. Artists and songs clickable from the stats page. Compilations added to artist page alongside Albums and Singles."
+  "notes": "Shared Playlists - share a playlist with another user on your server and see who added each track. Redesigned Favourites page, LRCLIB lyrics fallback with a synced-lyrics preference, release date fixes, and disc separators on multi-disc albums."
 }
